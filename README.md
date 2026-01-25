@@ -47,3 +47,16 @@ Each week contains:
 • Minimal math, maximum intuition
 
 This repository reflects a learning-in-public journey and will evolve weekly.
+
+week-01-linear-algebra-basics/
+│ ├── vectors_and_probabilities.ipynb
+│ └── notes.md
+
+week-02-qubits-as-vectors/
+│ ├── superposition.ipynb
+│ └── notes.md
+
+week-03-quantum-gates-as-matrices/
+│ ├── quantum_gates.ipynb
+│ └── notes.md
+
