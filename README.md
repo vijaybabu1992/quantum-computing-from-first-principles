@@ -36,7 +36,12 @@ This repo focuses on building that intuition step by step.
 • Entanglement (from a math-first view)
 
 ### Week 5: Multi-Qubit System & Tensor Products
+• Single-qubit math
+• Gates
+• Measurement
+• Multi-qubit state construction
 
+### Week 6: Entanglement (math-first, no hype)
 
 ## Tools Used
 • Python  
