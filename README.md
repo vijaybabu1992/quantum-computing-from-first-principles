@@ -30,10 +30,13 @@ This repo focuses on building that intuition step by step.
 • Matrix × Vector operations  
 • Why quantum gates are reversible  
 
-(Upcoming)
+### Week 4: Measurement & Probability (Born Rule)
 • Measurement and probability  
 • Multi-qubit systems  
 • Entanglement (from a math-first view)
+
+### Week 5: Multi-Qubit System & Tensor Products
+
 
 ## Tools Used
 • Python  
@@ -60,3 +63,10 @@ week-03-quantum-gates-as-matrices/
 │ ├── quantum_gates.ipynb
 │ └── notes.md
 
+week-04-measurement_probability/
+│ ├── measurement_probability.ipynb
+│ └── notes.md
+
+week-05-multi-qubit-systems/
+│ ├── tensor_products.ipynb
+│ └── notes.md
